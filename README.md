@@ -1,4 +1,4 @@
-rock paper scissor Game
+<h2>rock paper scissor Game</h2>
 
 just for fun and Challenge
 
