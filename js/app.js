@@ -136,6 +136,7 @@ function muteHandler() {
   if (!isMute) {
     mute.className = "fas fa-volume-mute";
     sound.muted = true;
+    navigator.vibrate(200)
     isMute = true;
   } else {
     mute.className = "fas fa-volume-up";
